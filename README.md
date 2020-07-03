@@ -1,10 +1,10 @@
 # Working
 
-## Software Engineer (ARM Treasure Data)
+## Software Engineer (Arm Treasure Data)
 
 **Mar 2020 - Present**
 
-[ARM Treasure Data](https://www.treasuredata.com/)
+[Arm Treasure Data](https://www.treasuredata.com/)
 
 Working as Frontend Engineer in Customer Data Platform system.
 
@@ -27,42 +27,6 @@ Working as remote team member with companies located in United States to create 
 - AWS Amazon API Gateway and Lambda functions as middleware to consume a REST API.
 - JWT for Auth
 
-## Software Engineer (Koombea)
-
-**Sep 2015 - Nov 2015**
-
-[Koombea](https://koombea.com)
-
-Working as remote team member to create rich user interfaces with HTML, CSS and JavaScript.
-
-**Last Project:**
-
-- Single Page Application using Angular JS 1.x
-- REST API in Ruby on Rails.
-
-## Engineer in technology for Education (Universidad del Norte)
-
-[Universidad del Norte](https://uninorte.edu.co)
-
-**Jan 2007 - Sep 2015**
-
-Working in the Teaching and learning center
-
-- Blackboard instructor for teachers and content creator
-- Manage and coach teaching assistants groups to support teachers in the use of - educational technologies
-- Create and mantain internal web sites with Joomla (LAMP)
-
-## Engineer for new technologies (Universidad del Norte)
-
-[Universidad del Norte](https://uninorte.edu.co)
-
-**May 2003 - Dec 2006**
-
-Working in Health and Sciences Departament at the Hospital Universidad del Norte at
-
-- Telemedicine project
-- Create educational resources with PHP and MySQL
-
 # Education
 
 ## Master in IT Governance
@@ -76,14 +40,6 @@ Working in Health and Sciences Departament at the Hospital Universidad del Norte
 [Universidad del Norte](https://uninorte.edu.co)
 
 **Sep 2003**
-
-# Certifications
-
-## SCRUM Developer Certified
-
-[Scrum Agile Institute](https://scrumagileinstitute.org/)
-
-**Jan 2016 - Present**
 
 # Honors and awards
 
