@@ -11,12 +11,13 @@ Software Engineer who loved code, passionate about teaching and mentoring. I cre
 
 ## Books
 
-- [Book Store](https://gmoralesc.me/books/)
+- [Amazon Book Store](https://www.amazon.com/stores/Gustavo-Morales/author/B08P5DH13H)
+- [Leanpub Book Store](https://leanpub.com/u/gmoralesc)
 
-[![Learn Node.js with real applications](https://d2sofvawe08yqg.cloudfront.net/learn-nodejs-with-real-applications/s_hero2x?1716660426)](https://leanpub.com/learn-nodejs-with-real-applications)
+[![Learn Node.js with real applications](https://d2sofvawe08yqg.cloudfront.net/learn-nodejs-with-real-applications/s_featured?1716660426)](https://leanpub.com/learn-nodejs-with-real-applications)
 
-[![API with Node.js, Express and Prisma](https://d2sofvawe08yqg.cloudfront.net/api-with-nodejs-express-and-prisma/s_hero2x?1696741421)](https://leanpub.com/api-with-nodejs-express-and-prisma)
+[![API with Node.js, Express and Prisma](https://d2sofvawe08yqg.cloudfront.net/api-with-nodejs-express-and-prisma/s_featured?1696741421)](https://leanpub.com/api-with-nodejs-express-and-prisma)
 
-[![Introducción a Node.js](https://d2sofvawe08yqg.cloudfront.net/introduccion-a-nodejs/hero?1564247999)](https://leanpub.com/introduccion-a-nodejs)
+[![Introducción a Node.js](https://d2sofvawe08yqg.cloudfront.net/introduccion-a-nodejs/s_featured?1620597373)](https://leanpub.com/introduccion-a-nodejs)
 
-[![Crear un API con Node.js, Express y MongoDB](https://d2sofvawe08yqg.cloudfront.net/crear-un-api-con-nodejs-express-y-mongodb/hero?1564248042)](https://leanpub.com/crear-un-api-con-nodejs-express-y-mongodb)
+[![Crear un API con Node.js, Express y MongoDB](https://d2sofvawe08yqg.cloudfront.net/crear-un-api-con-nodejs-express-y-mongodb/s_featured?1620606488)](https://leanpub.com/crear-un-api-con-nodejs-express-y-mongodb)
