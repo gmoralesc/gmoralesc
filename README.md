@@ -1,7 +1,5 @@
 # Hi, I am Gustavo Morales
 
-![me](https://avatars1.githubusercontent.com/u/760122?s=240&u=073d8f5f10b280bce8b7de6c46808e934ebab16c&v=4)
-
 Software Engineer who loved code, passionate about teaching and mentoring. I create content about programming
 
 - [Webpage](http://gmoralesc.me)
