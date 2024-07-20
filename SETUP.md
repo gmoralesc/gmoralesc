@@ -1,6 +1,6 @@
-# Developer Setup
+# Apple Developer Setup
 
-## Apple System
+## System
 - iCloud: Disable any unused features (Like photos because it will take a lot of space)
 - Dock: Delete shorcuts not related to development
 - Finder: Preferences
@@ -10,6 +10,8 @@
     - Short by name
     - 72x72 size
     - Use as Defaults
+  - Create Web folder in [username]'s root
+  - Add Web shorcut in the sidebar
 
 ## Browser
 - Download Google Chrome
@@ -24,9 +26,8 @@
     - Select "Tomorrow Night" > Default
     - Font Size: 14
   - Terminal > Settings > Window > Windows Size > 120 x 32
-- Install [Brew](https://brew.sh/)
-- Install Command Line Tools for Xcode
-- Select zsh profile and Brew path
+- Install [Brew](https://brew.sh/) (It will install Command Line Tools for Xcode automatically)
+- Update Brew path in zsh
   - Run `nano .zshrc`
   - Add to the bottom: `export PATH="/opt/homebrew/bin:$PATH"`
 
