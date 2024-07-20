@@ -22,6 +22,7 @@
   - Download raw file
   - Terminal > Settings > Profile > ... > Import
     - Select "Tomorrow Night" > Default
+    - Font Size: 14
   - Terminal > Settings > Window > Windows Size > 120 x 32
 - Install [Brew](https://brew.sh/)
 - Install Command Line Tools for Xcode
