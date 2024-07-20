@@ -1,8 +1,8 @@
-# Setup
+# Developer Setup
 
 ## Apple System
-- iCloud: Disable any unused features
-- Dock: Delete all unused apps
+- iCloud: Disable any unused features (Like photos because it will take a lot of space)
+- Dock: Delete shorcuts not related to development
 - Finder: Preferences
   - General > New Finder window show: [username]
   - Sidebar > Show these items in the sidebar: [username]
@@ -34,7 +34,7 @@
 - Install [Node.js version Manager (nvm)](https://github.com/nvm-sh/nvm)
 - Install [Node.js](https://nodejs.org/en/)
   -  `nvm install stable`
-- Install [Visual Studio Code](https://code.visualstudio.com/)
+- Install and add shorcut in the Dock [Visual Studio Code](https://code.visualstudio.com/)
   - Theme: [Tomorrow Night](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-TomorrowKit)
   - Extensions:
     - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
