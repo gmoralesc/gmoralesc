@@ -57,8 +57,8 @@
   - `ssh-keygen -t rsa -b 2048 -C "[name]"` (Follow instructions)
   - `nano ~/.ssh/config`
     - ```
-      Host [url]
+      Host [git host url]
       PreferredAuthentications publickey
       IdentityFile ~/.ssh/[keyname]
       ```
-  - `cat [keyname].pub`
+  - `cat [keyname].pub` > Add to SSH Keys in the "Git host"
