@@ -10,8 +10,8 @@
     - Short by name
     - 72x72 size
     - Use as Defaults
-  - Create Web folder in [username]'s root
-  - Add Web shorcut in the sidebar
+  - Create "Web" folder in [username]'s root
+  - Add "Web" shorcut in the sidebar
 
 ## Browser
 - Download Google Chrome
