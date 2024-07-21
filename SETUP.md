@@ -44,6 +44,7 @@
     - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
     - [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
   - My recommended settings: [settigns.json](https://gist.github.com/gmoralesc/cb44947e93f4071cc309b04a50101776)
+  - Terminal PATH: `CMD + SHIFT + P`: "Shell command: Install 'code' command in PATH"
 - Install [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 
 ## Git
