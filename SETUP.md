@@ -45,3 +45,13 @@
     - [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
   - My recommended settings: [settigns.json](https://gist.github.com/gmoralesc/cb44947e93f4071cc309b04a50101776)
 - Install [Docker Desktop](https://www.docker.com/products/docker-desktop/)
+
+## Git
+- Configuration
+  - `git config --global user.name "[name]"`
+  - `​git config --global user.email [email]`
+  - `git config --global core.editor nano`
+- SSH
+  - `mkdir .ssh`
+  - `ssh-keygen -t rsa -b 2048 -C "[name]"` (Follow instructions)
+  - `cat [keyname].pub`
