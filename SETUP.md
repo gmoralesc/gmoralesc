@@ -56,7 +56,9 @@
   - `mkdir .ssh`
   - `ssh-keygen -t rsa -b 2048 -C "[name]"` (Follow instructions)
   - `nano ~/.ssh/config`
-    - Host [url]
+    - ```
+      Host [url]
       PreferredAuthentications publickey
       IdentityFile ~/.ssh/[keyname]
+      ```
   - `cat [keyname].pub`
