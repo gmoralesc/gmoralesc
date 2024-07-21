@@ -41,8 +41,8 @@
     - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
     - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
     - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
-    - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
     - [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+    - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
   - My recommended settings: [settigns.json](https://gist.github.com/gmoralesc/cb44947e93f4071cc309b04a50101776)
   - Terminal PATH: `CMD + SHIFT + P`: "Shell command: Install 'code' command in PATH"
 - Install [Docker Desktop](https://www.docker.com/products/docker-desktop/)
