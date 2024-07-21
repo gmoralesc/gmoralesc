@@ -1,4 +1,4 @@
-# Apple Developer Setup
+# Mac Web Developer Setup
 
 ## System
 - iCloud: Disable any unused features (Like photos because it will take a lot of space)
