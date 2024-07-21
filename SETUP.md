@@ -28,7 +28,7 @@
   - Terminal > Settings > Window > Windows Size > 120 x 32
 - Install [Brew](https://brew.sh/) (It will install Command Line Tools for Xcode automatically)
 - Update Brew path in zsh
-  - Run `nano .zshrc`
+  - `nano .zshrc`
   - Add to the bottom: `export PATH="/opt/homebrew/bin:$PATH"`
 
 ## Developer Tools
