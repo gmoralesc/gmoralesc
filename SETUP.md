@@ -12,6 +12,7 @@
     - Use as Defaults
   - Create "Web" folder in [username]'s root
   - Add "Web" shorcut in the sidebar
+- System Settings > Mouse > Secondary click > Click Right Side
 
 ## Browser
 - Download Google Chrome
