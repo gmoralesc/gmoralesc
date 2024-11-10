@@ -1,6 +1,7 @@
 # Mac Web Developer Setup
 
 ## System
+- System Settings > Mouse > Secondary click > Click Right Side
 - iCloud: Disable any unused features (Like photos because it will take a lot of space)
 - Dock: Delete shorcuts not related to development
 - Finder: Preferences
@@ -12,7 +13,6 @@
     - Use as Defaults
   - Create "Web" folder in [username]'s root
   - Add "Web" shorcut in the sidebar
-- System Settings > Mouse > Secondary click > Click Right Side
 
 ## Browser
 - Download Google Chrome
@@ -39,8 +39,7 @@
 - Install and add shorcut in the Dock [Visual Studio Code](https://code.visualstudio.com/)
   - Theme: [Tomorrow Night](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-TomorrowKit)
   - Extensions:
-    - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-    - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+    - [Biome](https://marketplace.visualstudio.com/items?itemName=biomejs.biome)
     - [Pretty TypeScript Errors](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)
     - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
     - [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
@@ -65,3 +64,6 @@
       IdentityFile ~/.ssh/[keyname]
       ```
   - `cat [keyname].pub` > Add to SSH Keys in the "Git host"
+ 
+## Apps
+- Install [Raycast](https://www.raycast.com/)
