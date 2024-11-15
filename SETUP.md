@@ -44,6 +44,7 @@
     - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
     - [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
     - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+    - [Prisma](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma)
     - [Svg Preview](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview)
   - My recommended settings: [settings.json](https://gist.github.com/gmoralesc/cb44947e93f4071cc309b04a50101776)
   - Terminal PATH: `CMD + SHIFT + P`: "Shell command: Install 'code' command in PATH"
@@ -64,6 +65,3 @@
       IdentityFile ~/.ssh/[keyname]
       ```
   - `cat [keyname].pub` > Add to SSH Keys in the "Git host"
- 
-## Apps
-- Install [Raycast](https://www.raycast.com/)
