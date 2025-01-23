@@ -1,6 +1,6 @@
 # Hi, I am Gustavo Morales
 
-Software Engineer who loved code, passionate about teaching and mentoring. I create content about programming
+Senior Software Engineer with a Bachelor's in Computer Science, a Master's in IT Governance, and extensive experience in software development. I am passionate about coding, teaching, and mentoring, which has led me to teach undergraduate and graduate courses in web development, author books on JavaScript and Node.js, and create awesomenodejs.dev, a resource hub for developers. I combine technical expertise with a strong commitment to knowledge-sharing through content creation on different platforms
 
 - [Webpage](http://gmoralesc.me)
 - [X](https://twitter.com/@gmoralesc)
